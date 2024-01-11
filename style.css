@@ -103,27 +103,26 @@ color: aliceblue;
     border-left: solid 2px red;
 } */
 .or{
-    width: 10px;
-    border: 20px;
+    width: 7px;
     background-color: #F2B174;
     position: relative;
     z-index: 1;
     
 }
 .nuror{
-    border: solid 2px #F29B74;
+    border: solid 2px #F2B174;;
     border-radius: 130px;
     width: 40px;
     height: 40px;
-    background-color:  rgb(138, 128, 128,);
+    background-color: rgb(172, 165, 165);
     position: relative;
     z-index:2;
-     /* top: 126px; */
-    left:0px; 
+     top: 120px;
+    left:-25px; 
     right: 20px;
     /* display: flex;
     justify-content: center; */
-    padding-top: 12px;
+    padding-top: 15px;
     padding-left: 11px;
     
 }
