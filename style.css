@@ -22,8 +22,14 @@ button{
     height: 80px;
     font-size: 23px;
     color: aliceblue;
+    border: none;
+    margin: 20px;
 }
 
+button:hover{
+    background-color:#F29B74 ;
+
+}
 .both{
 display: flex;
 justify-content: space-around;
