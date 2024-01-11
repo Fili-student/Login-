@@ -126,3 +126,17 @@ color: aliceblue;
     padding-left: 11px;
     
 }
+
+ 
+.strich{
+    padding-left: 17px;
+    padding-right: 34px;
+    } 
+
+
+
+    i{
+    float: left;
+    padding-left: 30px;
+    transform: scale(1.6);
+    }
